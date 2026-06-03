@@ -61,10 +61,6 @@ For me, data is not just numbers. It is evidence, patterns, and sometimes a litt
 
 A movie recommendation app using IMDb data and machine learning to recommend movies based on user mood and preferences.
 
-### ShadeMate
-
-A computer vision-based app that analyzes skin tone and recommends suitable foundation shades.
-
 ### UMKM Database System
 
 A cloud database project using PostgreSQL and Supabase to manage and analyze UMKM data in Desa Banjarsari.
